@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="name" value="1" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/ap/build/libs/ap-1.0.jar" />
+        </processorPath>
+        <module name="processor.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-Aname=Chris" />
+  </component>
+</project>
